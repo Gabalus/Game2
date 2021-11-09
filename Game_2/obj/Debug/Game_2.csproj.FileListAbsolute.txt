@@ -1,0 +1,11 @@
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\bin\Debug\Game_2.exe.config
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\bin\Debug\Game_2.exe
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\bin\Debug\Game_2.pdb
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.csprojAssemblyReference.cache
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.Form1.resources
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.Properties.Resources.resources
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.csproj.GenerateResource.cache
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.csproj.CoreCompileInputs.cache
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.exe
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.pdb
+C:\Users\Gabalus\Source\Repos\Game_2\Game_2\obj\Debug\Game_2.FormPlayers.resources
